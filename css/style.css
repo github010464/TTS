@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('../images/clock.jpg');
+    background-color: antiquewhite;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    height:30px !important;
+}
+

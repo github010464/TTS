@@ -1,0 +1,11 @@
+/* Show icon */
+.form-group{
+    position: relative;
+}
+i{
+    position: absolute;
+    top: 32px;
+    right: 6px;            
+    cursor: pointer; 
+    color: gray;
+}
